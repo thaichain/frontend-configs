@@ -4,7 +4,7 @@
 		"url": "https://eth.jfinchain.com/",
 		"group": "Mainnets",
 		"isActive": true,
-		"icon": "https://raw.githubusercontent.com/thaichain/frontend-configs/main/configs/network-icons/ethereum.svg"
+		"icon": "https://raw.githubusercontent.com/thaichain/frontend-configs/main/configs/network-icons/jfin.svg"
 	},
 	{
 		"title": "Ethereum",
